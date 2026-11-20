@@ -1,0 +1,17 @@
+# Install into an environment that already has SIMSOPT, JAX, NumPy, SciPy and SymPy, from the repository root:
+#   pip install --no-build-isolation --no-deps -e .
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gaussflux"
+version = "0.1.0"
+description = "Sampling-free Gaussian average f0 + Delta2 of SIMSOPT's SquaredFlux under a Gaussian coil-error law"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.10"
+dependencies = ["numpy", "scipy", "sympy", "jax", "simsopt"]
+
+[tool.setuptools]
+packages = ["gaussflux"]

@@ -206,9 +206,3 @@ R7 reduced +0.0037 % +- 0.0002 % | plain +43.31 % +- 4.08 % | omitted_delta2 +38
 The outputs shown under R1–R7 are from one run of the blocks of this page, in order, on 2026-11-20 at 14:13 CST, in the
 environment above, from a folder outside the repository. The test of this repository's installation runs them again
 (see the README).
-
-## Change log
-
-- 2026-11-20 14:20 CST — Claude Opus 5.5 (developer): created for the public repository: entries R1–R7 (blocks that
-  reproduce the usage page's numbers with this package, with their output) and D1–D3 (development measurements, described).
-- 2026-11-20 14:15 CST — Claude Opus 5.5 (developer): corrects the timestamp of the entry above, which was estimated, not read from the clock (the file was completed at about 14:15 CST).

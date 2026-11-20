@@ -288,7 +288,3 @@ Machine, command and date in `docs/EVIDENCE.md`, D2 (peak resident memory 1.59 G
 | `SquaredFlux`, same grid | — | 0.0070 | 0.0209 | 0.021 | 1 |
 
 One sample of a sample mean costs at least one `SquaredFlux` evaluation of a perturbed coil set.
-
-## Change log
-
-- 2026-11-20 14:14 CST — Claude Opus 5.5 (developer): created for the public repository from the development project's usage page (final state of 2026-11-20 12:49 CST): citations of unpublished records replaced by entries of docs/EVIDENCE.md; the statements about a particular sampler's error reduced to a neutral one; the sections on a finite-beta driver that is not part of this repository and its timing removed; the validation scope moved to §6.

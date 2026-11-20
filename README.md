@@ -95,9 +95,3 @@ This package was written by an AI model (Claude Opus 5.5) as developer, under a 
 ## Licence
 
 MIT; see [LICENSE](LICENSE).
-
-## Change log
-
-- 2026-11-20 14:16 CST — Claude Opus 5.5 (developer): created for the public repository: the method in one formula,
-  install, the tested environment and the installation test, the SHA-256 of the package files, the limits, the example's
-  input file, the references inside the code, how it was made (wording for approval), the licence.
